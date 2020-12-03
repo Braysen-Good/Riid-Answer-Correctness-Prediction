@@ -11,6 +11,6 @@ This repo has the following models:
   * RRN -> used to predict based off of a single interaction with question data **with** tags (subject info) and a hidden state generated from the user's previous actions. This allows for the model to predict with the context of the user.
 
 Here are the links to the models:
-  * Gradient Boost Machine Baseline: [https://www.kaggle.com/braysen/ridd-baseline](https://www.kaggle.com/braysen/ridd-baseline)
-  * Supervised Auto-Encoder: [https://www.kaggle.com/braysen/neural-network](https://www.kaggle.com/braysen/neural-network)
-  * RNN: [https://www.kaggle.com/braysen/hidden-state-neural-network](https://www.kaggle.com/braysen/hidden-state-neural-network)
+  * Gradient Boost Machine Baseline (Version 3 was used for poster data): [https://www.kaggle.com/braysen/ridd-baseline](https://www.kaggle.com/braysen/ridd-baseline)
+  * Supervised Auto-Encoder (Version 8 was used for poster data): [https://www.kaggle.com/braysen/neural-network](https://www.kaggle.com/braysen/neural-network)
+  * RNN (Version 5 was used for poster data): [https://www.kaggle.com/braysen/hidden-state-neural-network](https://www.kaggle.com/braysen/hidden-state-neural-network)
